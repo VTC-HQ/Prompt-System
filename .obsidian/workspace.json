@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Chat Summary Management System - Setup Instructions"
+              "title": "README"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Chat Summary Management System - Setup Instructions"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Chat Summary Management System - Setup Instructions"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Chat Summary Management System - Setup Instructions"
+              "title": "Outline of README"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "10a167e3c5d36373",
   "lastOpenFiles": [
+    "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
     "README.md",
     "System Prompt",
     "Welcome.md",
-    "System Prompt/Obsidian Chat Summary Management System - Setup Instructions.md",
     "LLM + Obsidian Bridge.md"
   ]
 }
